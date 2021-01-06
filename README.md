@@ -2,7 +2,7 @@
 
 ## Run in Colab
 
-* Navigate to (colab.research.google.com)[http://colab.research.google.com/]
+* Navigate to http://colab.research.google.com/
 * Sign in with your Google account
 * On the menu that appears choose Github
 * In the searchbar type: https://github.com/keeeto/reading-ml-chemistry

@@ -7,6 +7,7 @@
 * On the menu that appears choose Github
 * In the searchbar type: https://github.com/keeeto/reading-ml-chemistry
 * Choose the notebook you want to open
+* For the practical; open `regression_decision_tree_practical.ipynb`
 
 ## Saving notebooks
 
